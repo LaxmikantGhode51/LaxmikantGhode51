@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\helper\\traceviewerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\helper\\traceviewerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\test\\easomeetrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\test\\easomeetrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\test\\validationassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\test\\validationassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\test\\eaasomee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\test\\eaasomee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\helper\\loginassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\helper\\loginassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\pageobject\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\pageobject\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\dummytest\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\dummytest\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\pageobject\\page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\pageobject\\page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|c:\\users\\91954\\source\\repos\\playwrightnunit\\playwrightnunit\\driver\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807EB7-DB3A-4CFC-9531-2D5962CF404A}|PlaywrightNunit\\PlaywrightDemo.csproj|solutionrelative:playwrightnunit\\driver\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\.gitignore",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\.gitignore",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\.gitignore",
+              "RelativeToolTip": "PlaywrightNunit\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-27T16:38:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EaSomeeTrace.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\EaSomeeTrace.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Test\\EaSomeeTrace.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\EaSomeeTrace.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Test\\EaSomeeTrace.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:10:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\UnitTest1.cs",
+              "RelativeToolTip": "PlaywrightNunit\\UnitTest1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:10:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationAssertions.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\ValidationAssertions.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Test\\ValidationAssertions.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\ValidationAssertions.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Test\\ValidationAssertions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:06:36.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraceViewerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Helper\\TraceViewerHelper.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Helper\\TraceViewerHelper.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Helper\\TraceViewerHelper.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Helper\\TraceViewerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:10:06.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EaaSomee.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\EaaSomee.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Test\\EaaSomee.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Test\\EaaSomee.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Test\\EaaSomee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:34:48.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginAssertions.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Helper\\LoginAssertions.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Helper\\LoginAssertions.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Helper\\LoginAssertions.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Helper\\LoginAssertions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:04:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaywrightDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PlaywrightDemo.csproj",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\PlaywrightDemo.csproj",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PlaywrightDemo.csproj",
+              "RelativeToolTip": "PlaywrightNunit\\PlaywrightDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T17:11:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PageObject\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\PageObject\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PageObject\\LoginPage.cs",
+              "RelativeToolTip": "PlaywrightNunit\\PageObject\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:17:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Page1.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PageObject\\Page1.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\PageObject\\Page1.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\PageObject\\Page1.cs",
+              "RelativeToolTip": "PlaywrightNunit\\PageObject\\Page1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:58:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Practice1.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\DummyTest\\Practice1.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\DummyTest\\Practice1.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\DummyTest\\Practice1.cs",
+              "RelativeToolTip": "PlaywrightNunit\\DummyTest\\Practice1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:43:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Config\\TestSettings.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Config\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Config\\TestSettings.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Config\\TestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:34:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlaywrightDriver.cs",
+              "DocumentMoniker": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Driver\\PlaywrightDriver.cs",
+              "RelativeDocumentMoniker": "PlaywrightNunit\\Driver\\PlaywrightDriver.cs",
+              "ToolTip": "C:\\Users\\91954\\source\\repos\\PlaywrightNunit\\PlaywrightNunit\\Driver\\PlaywrightDriver.cs",
+              "RelativeToolTip": "PlaywrightNunit\\Driver\\PlaywrightDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:30:50.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
