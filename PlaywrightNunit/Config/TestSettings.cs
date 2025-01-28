@@ -15,6 +15,8 @@ namespace PlaywrightDemo.Config
        // public string Channel { get; set; }
         public int SlowMo { get; set; }
         public bool Head {  get; set; }
+        public bool Headfull {  get; set; }
+
 
 
 
